@@ -5,8 +5,8 @@ This repository contains some of the certifications I have recently completed.
 ## 1. Introduction to Front-End Development
 - Platform: Coursera (Meta)
 - Skills: HTML, CSS, JavaScript, Responsive Design
-- 📄 [View Certificate](https://coursera.org/share/cd2cd85dfc3bdbf2bca4b17e60705343)
+- 📄 [View Certificate](Introduction_to_Front-End_Development.pdf)
 ## 2.Start Your API Testing Journey With Postman Tool
-- Platform: Postman Academy
+- Platform: Coursera
 - Skills: API Testing, Collections, Environments, Automation
 - 📄 [View Certificate](API_Testing_with_Postman.pdf)
