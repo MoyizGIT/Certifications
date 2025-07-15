@@ -9,5 +9,4 @@ This repository contains some of the certifications I have recently completed.
 ## 2.Start Your API Testing Journey With Postman Tool
 - Platform: Postman Academy
 - Skills: API Testing, Collections, Environments, Automation
-- 📄 [View Certificate](https://coursera.org/share/dbada8883cbd8f89758b8f69b8286b8e)
-- 📄 [View Certificate](Certifications/API_Testing_with_Postman.pdf)
+- 📄 [View Certificate](API_Testing_with_Postman.pdf)
