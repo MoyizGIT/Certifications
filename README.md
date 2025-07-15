@@ -1,13 +1,12 @@
-# 🎓 Mes Certifications
+# 🎓 My Certifications
 
-Voici quelques-unes des certifications que j'ai obtenues récemment :
+This repository contains some of the certifications I have recently completed.
 
 ## 1. Introduction to Front-End Development
-- Plateforme : Coursera (Meta)
-- Compétences : HTML, CSS, JavaScript, Responsive Design
-- 📄 Voir le certificat
-
-## 2. Start Your API Testing Journey With Postman Tool
-- Plateforme : Postman Academy
-- Compétences : API Testing, Collections, Environments, Automation
-- 📄 [Voir le certificat](./certifications/API_Test
+- Platform: Coursera (Meta)
+- Skills: HTML, CSS, JavaScript, Responsive Design
+- 📄 [View Certificate](https://coursera.org/share/cd2cd85dfc3bdbf2bca4b17e60705343)
+## 2.Start Your API Testing Journey With Postman Tool
+- Platform: Postman Academy
+- Skills: API Testing, Collections, Environments, Automation
+- 📄 [View Certificate](https://coursera.org/share/dbada8883cbd8f89758b8f69b8286b8e)
